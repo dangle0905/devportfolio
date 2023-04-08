@@ -8,6 +8,14 @@ To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/
 
 Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgerald/devblog).
 
+## To Update Repo From Different Computer
+1. git clone https://github.com/username/repo.git
+2. Update what you need to update
+3. git add .
+4. git commit -m "Added new feature"
+5. git push origin master
+6. Done!
+
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
